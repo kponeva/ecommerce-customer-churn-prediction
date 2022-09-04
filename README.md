@@ -22,7 +22,7 @@ Berikut adalah definisi masing-masing label pada e-commerce ini:
     1 = Pelanggan yang churn (berhenti/pindah) 
     Pelanggan yang tidak churn di perusahaan ini ditandai dengan angka yang cenderung rendah pada hari terakhir mereka bertransaksi, jumlah order, serta jenis barang yang dibeli (pembelian barang elektronik yang cenderung churn). 
 
-## *1.2 Problem Statement*
+## *1.2 Problem Understanding*
 
 Faktanya, persentase pelanggan yang hilang tersebut berpengaruh terhadap growth rate perusahaan, ini merupakan alasan utama yang menjadikan customer churn rate begitu penting terutama di bisnis e-commerce. 
 
@@ -33,7 +33,7 @@ Selain itu, sebuah survey membuktikan bahwa:
 
 Dengan alasan ini, dibandingkan jika kita melakukan customer acquisition, memperhatikan dan meningkatkan hubungan dengan pelanggan yang sudah ada akan memberikan keuntungan jangka panjang pada perusahaan seperti peningkatan customer life value dan pengaruhnya terhadap profit perusahaan. Namun tantangannya adalah, jika kita tidak tahu pelanggan manakah yang akan churn maka kita akan cenderung menargetkan semua pelanggan dimana ini dapat menyia-nyiakan biaya retention cost. 
 
-## *1.3 Goals*
+## *1.3 Problem Statement*
 
 Setelah memahami latar belakang permasalahan, kita mampu menyimpulkan problem statement pada projek ini. Ada 2 poin penting yang menjadi landasan kita yaitu Goals dan Values. Goals kita disini sesuai konteks yang sudah dijelaskan di awal yaitu untuk memprediksi customer churn seakurat mungkin dengan tujuan utama kita yaitu untuk meminimalkan biaya retention cost dan juga meningkatkan customer life value.
 
