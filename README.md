@@ -1,9 +1,5 @@
 # **ECOMMERCE CUSTOMER CHURN PREDICTION AND ANALYSIS**
 
-A final project assigned by Purwadhika Digital Technological School completed by 2 members of group: 
-- Kenshi Poneva Yulindo
-- Luthfi Ghina Barka
-
 # **BUSINESS PROBLEM**
 
 ## *1.1 Context*
